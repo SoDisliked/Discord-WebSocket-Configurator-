@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <WebSocketDiscord>1.0-beta.8</WebSocketDiscord>
+  </PropertyGroup>
+ </Project>
